@@ -1,2 +1,3 @@
 # hello-world2
-just another repo
+hello people,how are you?
+i am fine.
